@@ -4,12 +4,12 @@ Nosso projeto feito para a exposição SEPEX, BioCheck, tem como objetivo simula
 O projeto foi criado para a exposição SEPEX(Semana de Ensino, Pesquisa e Extensão) de 2024, participando na categoria Tectonologia e Produção.
 
 O projeto requer os seguintes Materiais:
-    Arduíno(Uno ou outras versões com as mesmas portas)
-    Sensor de umidade do solo resistivo Higrômetro
-    Sensor de umidade do ar Higrômetro HR202L
-    Sensor de temperatura Ds18b20 a prova da água
-    Sensor de chuva e Nível de água HR43
-    Protoboard(Opcional)
-    Jumpers
-    Computador
-    Câmera 
+    Arduíno(Uno ou outras versões com as mesmas portas);
+    Sensor de umidade do solo resistivo Higrômetro;
+    Sensor de umidade do ar Higrômetro HR202L;
+    Sensor de temperatura Ds18b20 a prova da água;
+    Sensor de chuva e Nível de água HR43;
+    Protoboard(Opcional);
+    Jumpers;
+    Computador;
+    Câmera;
