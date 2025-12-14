@@ -13,3 +13,5 @@ O projeto requer os seguintes Materiais:
     Jumpers;
     Computador;
     Câmera;
+
+Desenvolvido por Thiago Benjamim Lopes de Azevedo; Ricardo Yeshua Cavalcante Kalil; Emanuel Francisco Nascimento Callegário; Daniel Dull Sampaio Madureira Barbosa.
